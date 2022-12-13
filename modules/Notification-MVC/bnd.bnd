@@ -1,0 +1,4 @@
+Bundle-Name: Notification-MVC
+Bundle-SymbolicName: Notification.MVC
+Bundle-Version: 1.0.0
+Export-Package: Notification.MVC.constants
